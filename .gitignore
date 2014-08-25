@@ -1,0 +1,7 @@
+*DS_STORE
+history.yml
+.env
+!.env.sample
+rails
+.vagrant
+*.p12
